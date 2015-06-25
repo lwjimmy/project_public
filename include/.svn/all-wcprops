@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/supercard/!svn/ver/443/SuperAndroid/include
+END
+ComManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/supercard/!svn/ver/443/SuperAndroid/include/ComManager.h
+END
+crc32.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/supercard/!svn/ver/437/SuperAndroid/include/crc32.h
+END
+HttpClient.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/supercard/!svn/ver/437/SuperAndroid/include/HttpClient.h
+END
+makehead.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/supercard/!svn/ver/459/SuperAndroid/include/makehead.h
+END
+logger.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/supercard/!svn/ver/437/SuperAndroid/include/logger.h
+END
+SuperCardCore.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/supercard/!svn/ver/460/SuperAndroid/include/SuperCardCore.h
+END
+ConfigTool.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/supercard/!svn/ver/437/SuperAndroid/include/ConfigTool.h
+END
+ComObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/supercard/!svn/ver/459/SuperAndroid/include/ComObject.h
+END
+SuperLib.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/supercard/!svn/ver/460/SuperAndroid/include/SuperLib.h
+END
+MMInstaller.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/supercard/!svn/ver/437/SuperAndroid/include/MMInstaller.h
+END
+comminf.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/supercard/!svn/ver/460/SuperAndroid/include/comminf.h
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/supercard/!svn/ver/447/SuperAndroid/adb_plugin/AdbPlugin/include
+END
+AdbMonkey.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/supercard/!svn/ver/453/SuperAndroid/adb_plugin/AdbPlugin/include/AdbMonkey.h
+END
+util.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/supercard/!svn/ver/453/SuperAndroid/adb_plugin/AdbPlugin/include/util.h
+END
+AdbClient.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/supercard/!svn/ver/453/SuperAndroid/adb_plugin/AdbPlugin/include/AdbClient.h
+END
+myhead.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/supercard/!svn/ver/453/SuperAndroid/adb_plugin/AdbPlugin/include/myhead.h
+END
+AdbModem.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/supercard/!svn/ver/460/SuperAndroid/adb_plugin/AdbPlugin/include/AdbModem.h
+END
